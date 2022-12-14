@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-section {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+}
+
+#navbar-left {
+    color: white;
+    margin: 2%;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0;
+    border: none;
+    background: none;
+    text-shadow: 5px 5px 10px red;
+}
+
+#navbar-mid {
+    color: white;
+    font-size: 45px;
+    margin: 2%;
+    margin-left: 12%;
+}
+
+.navbar-right {
+    margin: 2%;
+    display: flex;
+    flex-direction: row;
+    margin-right: 20%;
+}
+
+#header-link-one {
+    margin-right: 50%;
+}
+
+#header-link-two {
+    margin-right: 50%;
+}
+
+
+button{
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 22px;
+    color: white;
+    font-weight: 600;
+    text-shadow: 5px 5px 10px blue;
+}
+
+#main-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+figcaption {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 100px;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-shadow: -1px 1px 0 red,
+    1px 1px 0 red,
+    1px -1px 0 red;
+}
+
+#main-par {
+    color: antiquewhite;
+    margin-top: 2%;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: -1px 1px 0 blue,
+    1px 1px 0 blue,
+    1px -1px 0 blue;
+}
+
+.main-display {
+    background-color: black;
+}
+
+.sec-navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-navbar-par {
+    text-align: center;
+    font-size: 80px;
+}
+
+#sec-sect-main-text {
+    text-align: center;
+    align-self: center;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px silver;
+}
+
+#li-1 {
+    color: red;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000;
+}
+
+#li-2 {
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000;
+}
+
+#li-3 {
+    color: blue;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000;
+}
+
+.third-section{
+    background-color: grey;
+    margin-top: 2%;
+}
+
+#third-sect-pic{
+    display: block;
+    margin: auto;
+    padding-top: 180px;
+    padding-bottom: 50px;
+}
+
+#figcap2 {
+    padding-bottom: 180px;
+    text-shadow: 5px 5px 10px red;
+    font-size: 80px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    font-size: 30px;
+    color: white;
+}
