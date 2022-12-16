@@ -43,6 +43,11 @@
     margin-right: 50%;
 }
 
+button:hover {
+    cursor: pointer;
+    transform: scale(1.25);
+    font-weight: 900;
+}
 
 button{
     width: 100px;
@@ -128,7 +133,7 @@ figcaption {
 }
 
 .third-section{
-    background-color: grey;
+    background-color: silver;
     margin-top: 2%;
 }
 
@@ -141,7 +146,7 @@ figcaption {
 
 #figcap2 {
     padding-bottom: 180px;
-    text-shadow: 5px 5px 10px red;
+    text-shadow: 5px 5px 10px blue;
     font-size: 80px;
 }
 
