@@ -156,3 +156,11 @@ figcaption {
     font-size: 30px;
     color: white;
 }
+
+#fourth-section {
+    display: block;
+    margin: auto;
+    width: 30%;
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
